@@ -13,7 +13,7 @@ The complete dataset consists of 3 different files.
 "winter" for winter olympics (1924 - 2014),
 "country" outlining profiles of each participating countries
 
-Acknowledgements
+Acknowledgements:
 Data was provided by the IOC Research and Reference Service and published by The Guardian's Datablog.
 
 In this project I will try to find answers for the following questions that crossed my mind after briefly inspecting the above data.
