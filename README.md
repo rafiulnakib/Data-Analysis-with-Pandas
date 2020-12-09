@@ -9,9 +9,10 @@ More than 35,000 medals have been awarded at the Olympics since 1896. The first 
 Content:
 The complete dataset consists of 3 different files.
 
-summer, for summer olympics (1896 - 2012)
-winter, for winter olympics (1924 - 2014)
-country, outlining profiles of each participating countries
+"summer" for summer olympics (1896 - 2012),
+"winter" for winter olympics (1924 - 2014),
+"country" outlining profiles of each participating countries
+
 Acknowledgements
 Data was provided by the IOC Research and Reference Service and published by The Guardian's Datablog.
 
